@@ -1,0 +1,51 @@
+/*!
+ * Theme Name: Default
+ * Package : DashLite
+ * Author: Softnio
+ * Author URI: http://themeforest.net/user/softnio
+ * Version	 :	1.0.0
+ * Updated	 :	07.23.2020
+**/
+
+.logo-text {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+    display: inline-block;
+    margin-left: .5rem;
+}
+
+.logo-img {
+    filter: brightness(100);
+}
+
+.nk-aside {
+    border-right: 1px solid #e5e9f2;
+}
+
+.nk-header-fixed + .nk-content {
+    margin-top: 25px;
+}
+
+.nk-menu li a {
+    font-size: 14px;
+}
+
+.current-user {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 500;
+    color: white;
+    position: relative;
+    left: 10px;
+}
+
+
+.nk-header {
+    background-color: royalblue !important;
+    border-bottom: dodgerblue !important;
+}
+
+
+.bg-primary {
+    background-color: royalblue !important;
+}
